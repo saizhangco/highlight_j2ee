@@ -8,3 +8,10 @@ highlight_springboot_ch7_6
     SpringBoot, Thymeleaf, WebSocket(Topic), STOMP, SockJS, JQuery
 highlight_springboot_ch8_2
 highlight_springmvc4
+
+activemq_demo
+    普通的java工程，测试activemq
+activemq_demo_mvn
+	基于maven的工程，测试activemq
+highlight_springboot_mq
+	springboot整合activemq，测试activemq
