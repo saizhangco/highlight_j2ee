@@ -35,7 +35,6 @@ public class ProducerController {
     @JmsListener(destination = "out.queue")
     public void consumerMsg(String msg) {
         System.out.println(msg);
-        MessageListenerContainer
     }
 
     @RequestMapping("/topic")
